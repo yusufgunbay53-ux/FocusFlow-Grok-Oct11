@@ -1,0 +1,16 @@
+{
+  "name": "FocusFlow",
+  "short_name": "FocusFlow",
+  "description": "AI Destekli Görev ve Odaklanma Asistanı",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b111e",
+  "theme_color": "#00d2ff",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
